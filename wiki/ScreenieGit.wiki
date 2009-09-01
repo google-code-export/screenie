@@ -20,7 +20,7 @@ More information about git include tutorials and GUI tools can be found at http:
 
 Screenie requires Qt version 4.4 or newer. Get Qt from http://www.trolltech.com/ : [http://doc.trolltech.com/installation.html Official Install Instructions] and [http://trolltech.com/downloads/opensource Download Page]. On Linux check with your distribution for packages.
 
-Simple steps to build Arora:
+Simple steps to build Screenie:
 {{{
 git clone git://github.com/ariya/screenie.git
 cd screenie
